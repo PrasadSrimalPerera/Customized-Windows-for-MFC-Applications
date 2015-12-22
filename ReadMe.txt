@@ -5,7 +5,7 @@
 The application wizard has created this TestWindow application for 
 you.  This application not only demonstrates the basics of using the Microsoft 
 Foundation Classes but is also a starting point for writing your application.
-
+For more details refer the artical here : http://www.codeproject.com/Articles/31399/A-Customized-Window-for-MFC-Applications
 This file contains a summary of what you will find in each of the files that
 make up your TestWindow application.
 
